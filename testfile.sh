@@ -14,3 +14,4 @@ echo "Restarting Nginx..."
 sudo systemctl restart nginx
 
 echo "Provisioning complete!"
+
